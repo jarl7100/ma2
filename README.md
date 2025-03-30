@@ -4,10 +4,7 @@
 
 ### Group members
 | Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Jarl Alexander Götzsche | 151984 |
 
 ***
 
